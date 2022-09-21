@@ -1,6 +1,7 @@
 {
     "typescript.tsdk": "node_modules/typescript/lib",
     "typescript.preferences.quoteStyle": "single",
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
     "[typescript]" : {
         "editor.formatOnSave" : false,
       },
